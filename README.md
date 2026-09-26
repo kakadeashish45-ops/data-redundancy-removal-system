@@ -1,5 +1,8 @@
 # Data Redundancy Removal System
 
+## Live Project
+https://data-redundancy-removal-system-lb14.onrender.com/# Data Redundancy Removal System
+
 A ready-to-use academic project based on the requirements:
 
 - Identify/classify new data as unique, duplicate, or possible false positive.
